@@ -10,6 +10,8 @@ library(readr)
 # Un comentario añadido por Jose
 # Un comentario añadido por karen
 
+# Muchas gracias Karen :D
+
 
 #iniciamos con un texto corto para probar la funcion tokenizers y otras basicas
 #Este ejemplo pertenece al comienzo del ?ltimo discurso sobre el Estado de la Uni?n de Barack Obama en 2016.
