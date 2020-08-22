@@ -8,6 +8,7 @@ library(readr)
 
 
 # Un comentario añadido por Jose
+# Un comentario añadido por karen
 
 
 #iniciamos con un texto corto para probar la funcion tokenizers y otras basicas
